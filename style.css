@@ -1,0 +1,9 @@
+.allcards {
+    display:flex;
+    justify-content:space-around;
+    padding-top:100px;
+    padding-left:150px;
+    padding-right:150px;
+    gap:10px;
+    flex-wrap:wrap;
+}
